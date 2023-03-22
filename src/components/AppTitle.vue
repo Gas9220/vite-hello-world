@@ -12,4 +12,8 @@ export default {
   <h1>{{ message }}</h1>
 </template>
 
-<style scoped></style>
+<style scoped>
+h1 {
+  color: rebeccapurple;
+}
+</style>
